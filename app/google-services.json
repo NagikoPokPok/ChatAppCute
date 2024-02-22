@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835561751603",
+    "project_id": "chat-app-ba19c",
+    "storage_bucket": "chat-app-ba19c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835561751603:android:fdad5ab4636a789cf68f46",
+        "android_client_info": {
+          "package_name": "edu.poly.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzZh8NPkMfjNpqFtwo91e82qTM5NPADA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
